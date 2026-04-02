@@ -8,7 +8,7 @@ This project focuses on making complex census data **interactive, intuitive, and
 
 ## 🌐 Live Application
 
-👉 [Click here to view the app](#)  
+👉Click to view the app :
 https://https-appcom-prince-1307-data-visualization-project-bsp7wua2ae.streamlit.app/
 
 ---
@@ -40,19 +40,6 @@ The dashboard allows comparison between multiple census metrics:
 
 ---
 
-## 📸 Application Preview
-
-### 🗺️ Dashboard View
-*(Add your screenshot here)*
-
-### 📈 Parameter Comparison
-*(Add screenshot)*
-
-### 📊 State-wise Visualization
-*(Add screenshot)*
-
----
-
 ## 🛠️ Tech Stack
 
 - **Python**
@@ -71,5 +58,4 @@ The dashboard allows comparison between multiple census metrics:
 
 ---
 
-## 📂 Project Structure
 
